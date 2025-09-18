@@ -4,4 +4,7 @@
 
 Durante minha transição, aprofundei meus conhecimentos em HTML, CSS e JavaScript, criei projetos práticos e publiquei alguns deles no meu GitHub. Atualmente, estou dando continuidade ao aprendizado com o módulo de JavaScript pela plataforma DevClub, reforçando minhas habilidades técnicas.
 
-Busco uma posição como Desenvolvedora Front-End Júnior para aplicar minhas competências, aprender continuamente e contribuir para o crescimento do time.</p>
+Busco uma posição como Desenvolvedora Front-End Júnior para aplicar minhas competências, aprender continuamente e contribuir para o crescimento do time.
+
+Segue abaixo os projetos que desenvolvi ao longo do curso. Pretendo continuar evoluindo e compartilhando meu progresso com novos projetos utilizando JavaScript, React e TypeScript.
+</p>
